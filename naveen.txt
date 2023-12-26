@@ -1,0 +1,95 @@
+industry, writing tests for your code
+so that one, you can be sure that your code today is, hopefully,
+if your tests are correct, correct itself.
+But moreover, if you or someone else modifies your code tomorrow, or down
+the line, you can rerun those same tests to ensure
+that those new changes have not broken anything about your own code.
+We'll then take a look at something called
+File I/O, I/O for input and output, the ability
+to not just store information inside of a computer's memory,
+but rather save it persistently to disk, so to speak, to files and folders.
+We'll then take a look at another technique, known
+as regular expressions, whereby, in Python, you can define patterns
+and you can validate data to make sure the human typed something in as you
+expect.
+You can use regular expressions to extract data, perhaps
+from some data set you're trying to analyze.
+We'll then take a look, ultimately, at object-oriented programming,
+a paradigm, a way of writing code, whereby you can represent, in code,
+real-world entities.
+And this is in addition to other paradigms of programming that we'll
+also explore, among them procedural programming,
+where you write lots of those functions, procedures
+really, top to bottom, to solve problems step by step,
+and even something known as functional programming, as well.
+And then at the very end of the course will we
+equip you with all the more tools for your toolkit.
+and additional building blocks, additional vocabulary
+via which, after thiou
+ndustry, writing tests for your code
+  2 so that one, you can be sure that your code today is, hopefully,
+  3 if your tests are correct, correct itself.
+  4 But moreover, if you or someone else modifies your code tomorrow, or down
+  5 the line, you can rerun those same tests to ensure
+  6 that those new changes have not broken anything about your own code.
+  7 We'll then take a look at something called
+  8 File I/O, I/O for input and output, the ability
+  9 to not just store information inside of a computer's memory,
+ 10 but rather save it persistently to disk, so to speak, to files and folders.
+ 11 We'll then take a look at another technique, known
+ 12 as regular expressions, whereby, in Python, you can define patterns
+ 13 and you can validate data to make sure the human typed something in as you
+ 14 expect.
+ 15 You can use regular expressions to extract data, perhaps
+ 16 from some data set you're trying to analyze.
+ 17 We'll then take a look, ultimately, at object-oriented programming,
+ 18 a paradigm, a way of writing code, whereby you can represent, in code,
+ 19 real-world entities.
+ 20 And this is in addition to other paradigms of programming that we'll
+ 20 And this is in addition to other paradigms of programming that we'll
+ 20 And this is in addition to other paradigms of programming that we'll
+ 20 And this is in addition to other paradigms of programming that we'll
+ 20 And this is in addition to other paradigms of programming that we'll
+ 20 And this is in addition to other paradigms of programming that we'll
+ 20 And this is in addition to other paradigms of programming that we'll
+ 20 And this is in addition to other paradigms of programming that we'll
+ pp
+ 21 also explore, among them procedural programming,
+ 21 also explore, among them procedural programming,
+ 21 also explore, among them procedural programming,
+ 21 also explore, among them procedural programming,
+ 22 where you write lots of those functions, procedures
+ 23 really, top to bottom, to solve problems step by step,
+ 24 and even something known as functional programming, as well.
+ 25 And then at the very end of the course will we
+ 26 equip you with all the more tools for your toolkit.
+ 27 and additional building blocks, additional vocabulary
+ 20 And this is in addition to other paradigms of programming that we'll
+ 28 via which, after this same course, you can go off on your own
+ 29 and either take other courses or solve projects of your own,
+ 29 and either take other courses or solve projects of your own,
+ 29 and either take other courses or solve projects of your own,
+ 29 and either take other courses or solve projects of your own,
+ 29 and either take other courses or solve projects of your own,
+s same course, you can go off on your own
+and either take other courses or solve projects of your own,
+using all of these mechanisms.
+Now this course itself assumes no prior programming background.
+So you don't have to have written a single line of code in Python,
+E
+Each week, via the courses lectures, will we introduce you
+to any number of concepts that we'll then
+drill down more deeply into in the form of problem sets each week.
+That is, programming projects that will enable
+you to apply some of those lessons learned to problems of your very own.
+And by the end of the course, you'll have
+solved so many problems that, ideally, are representative
+of problems you'll eventually encounter in the real world,
+whether you aspire to solve code in the technical world
+or perhaps in the arts, the humanities, the social sciences,
+the natural sciences, or beyond.
+You'll have, ultimately, the vocabulary and the technical skills
+via which to approach the same.
+This, then, is CS50.
+or any language, yet.
+But this is also a course that you can take before, during, or even after CS50
